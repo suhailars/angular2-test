@@ -2,7 +2,7 @@ import { MyAppPage } from './app.po';
 
 describe('my-app App', () => {
   let page: MyAppPage;
-
+ 
   beforeEach(() => {
     page = new MyAppPage();
   });
